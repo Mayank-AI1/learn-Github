@@ -1,3 +1,4 @@
 # learn-Github
-Learning Git &amp; GitHub
+Learning Git & GitHub
+<br>
 Author - Mayank Saini
